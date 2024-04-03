@@ -41,7 +41,7 @@
         </div>
         <div
           class="bg-slate-50/75 hover:bg-slate-50/90 shadow-xl rounded-lg px-4 py-2 m-4 flex justify-center items-center">
-          <a>
+          <a href="https://eslzzyl.github.io/">
             学术主页（WIP）
           </a>
         </div>
